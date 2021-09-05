@@ -1,5 +1,5 @@
 ## Withdraw Output
-![terminal screenshots]()
+![terminal screenshots](https://github.com/Keheira/Nervos-Learning/blob/main/task9/withdrawal%20proof.PNG)
 
 ## ETH address
 `0x8325B588969eF559f91Ccb34A8D6EB1851F3FF66`
